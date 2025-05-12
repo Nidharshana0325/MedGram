@@ -54,41 +54,7 @@ With its intuitive design and robust backend, MedGram is built to streamline hea
 ---
 
 ## 📸 Screenshots
-<p align="center">
-  <a href="Screenshot 2025-04-30 221225.png">
-    <img src="Screenshot 2025-04-30 221225.png" alt="Screenshot 1" width="250"/>
-  </a>
-  <a href="Screenshot 2025-04-30 221330.png">
-    <img src="Screenshot 2025-04-30 221330.png" alt="Screenshot 2" width="250"/>
-  </a>
-  <a href="Screenshot 2025-04-30 221725.png">
-    <img src="Screenshot 2025-04-30 221725.png" alt="Screenshot 3" width="250"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="Screenshot 2025-04-30 221819.png">
-    <img src="Screenshot 2025-04-30 221819.png" alt="Screenshot 4" width="250"/>
-  </a>
-  <a href="Screenshot 2025-04-30 221943.png">
-    <img src="Screenshot 2025-04-30 221943.png" alt="Screenshot 5" width="250"/>
-  </a>
-  <a href="Screenshot 2025-04-30 222008.png">
-    <img src="Screenshot 2025-04-30 222008.png" alt="Screenshot 6" width="250"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="Screenshot 2025-04-30 233932.png">
-    <img src="Screenshot 2025-04-30 233932.png" alt="Screenshot 7" width="250"/>
-  </a>
-  <a href="Screenshot 2025-05-01 004823.png">
-    <img src="Screenshot 2025-05-01 004823.png" alt="Screenshot 8" width="250"/>
-  </a>
-  <a href="Screenshot 2025-05-01 004834.png">
-    <img src="Screenshot 2025-05-01 004834.png" alt="Screenshot 9" width="250"/>
-  </a>
-</p>
+<p align="center"> <a href="Screenshot 2025-04-30 221225.png"> <img src="Screenshot 2025-04-30 221225.png" alt="Screenshot 1" width="250"/> </a> <a href="Screenshot 2025-04-30 221330.png"> <img src="Screenshot 2025-04-30 221330.png" alt="Screenshot 2" width="250"/> </a> <a href="Screenshot 2025-04-30 221725.png"> <img src="Screenshot 2025-04-30 221725.png" alt="Screenshot 3" width="250"/> </a> </p> <p align="center"> <a href="Screenshot 2025-04-30 221819.png"> <img src="Screenshot 2025-04-30 221819.png" alt="Screenshot 4" width="250"/> </a> <a href="Screenshot 2025-04-30 221943.png"> <img src="Screenshot 2025-04-30 221943.png" alt="Screenshot 5" width="250"/> </a> <a href="Screenshot 2025-04-30 222008.png"> <img src="Screenshot 2025-04-30 222008.png" alt="Screenshot 6" width="250"/> </a> </p> <p align="center"> <a href="Screenshot 2025-05-01 004823.png"> <img src="Screenshot 2025-05-01 004823.png" alt="Screenshot 7" width="250"/> </a> <a href="Screenshot 2025-05-01 004834.png"> <img src="Screenshot 2025-05-01 004834.png" alt="Screenshot 8" width="250"/> </a> </p>
 
 --- 
 
