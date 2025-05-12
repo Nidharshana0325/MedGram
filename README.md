@@ -54,7 +54,6 @@ With its intuitive design and robust backend, MedGram is built to streamline hea
 ---
 
 ## 📸 Screenshots
-
 <p align="center">
   <a href="Screenshot 2025-04-30 221225.png">
     <img src="Screenshot 2025-04-30 221225.png" alt="Screenshot 1" width="250"/>
